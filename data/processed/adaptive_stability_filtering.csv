@@ -1,0 +1,4 @@
+target,paradigm,importance_weighted_instability,peak_co_occurrence,peak_co_occurrence_feature,shap_vs_stability_rho,shap_vs_stability_p,n_features,swing_reduction_stable_minus_unstable
+recurrence,classification,1.0067417519646589,0.8520710059171599,firstorder_mean_hu,-0.07317490276206778,0.7224048682540362,26,0.005892857142857255
+egfr,classification,0.9778032928094779,0.8520710059171599,firstorder_mean_hu,0.21405368751894593,0.29371046367330295,26,-0.16345029239766068
+recurrence_survival,survival,0.9021729543882756,0.8875739644970415,firstorder_median_hu,-0.36895196299192123,0.06362134198623216,26,0.029201762201762405

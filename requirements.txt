@@ -1,0 +1,50 @@
+# Main environment: Python 3.12 (analyses and figures).
+# Versions are those used to produce the paper.
+#
+# pydicom-seg 0.4.1 declares numpy<2.0 but runs with numpy 2.x; the resulting
+# pip dependency warning can be ignored.
+
+# data handling and imaging
+pandas==2.3.3
+numpy==2.5.3
+openpyxl==3.1.5
+requests==2.34.2
+pydicom==2.4.5
+pydicom-seg==0.4.1
+SimpleITK==2.5.6
+Pillow==12.3.0
+scikit-image==0.26.0
+duckdb==1.5.5          # queries of the Imaging Data Commons index
+idc-index==0.12.5      # NCI Imaging Data Commons series lookup
+
+# statistics and modeling
+scipy==1.18.1
+scikit-learn==1.9.1
+joblib==1.6.0
+lifelines==0.30.3
+scikit-survival==0.28.0
+shap==0.52.0
+gseapy==1.3.1          # gene-set enrichment
+umap-learn==0.5.12     # habitat projection (Suppl. Fig. 8)
+
+# deep learning (image embeddings, foundation model)
+monai==1.6.1
+huggingface_hub==1.32.0
+# torch and torchvision need the CPU-only wheel index; install separately:
+#   pip install torch==2.14.0 torchvision==0.29.0 --index-url https://download.pytorch.org/whl/cpu
+
+# figures and the desktop viewer
+matplotlib==3.11.2
+seaborn==0.13.2
+statannotations==0.7.2
+mplcursors==0.7.1      # interactive desktop GUI only
+
+# development
+ruff                   # code checks: python -m ruff check scripts src pipeline.py
+
+# External tool: s5cmd (https://github.com/peak/s5cmd) for fast downloads from
+# the public Imaging Data Commons buckets (Lung1, LIDC-IDRI, liver metastases).
+#
+# PyRadiomics environment (Python 3.11; PyRadiomics does not install on 3.12):
+#   py -3.11 -m venv .venv_pyradiomics
+#   .venv_pyradiomics/Scripts/pip install pyradiomics==3.0.1 SimpleITK==2.5.6 numpy==2.4.6 pandas

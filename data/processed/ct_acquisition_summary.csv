@@ -1,0 +1,5 @@
+Cohort,CT series,Manufacturers,"Slice thickness, mm, median (range)","Pixel spacing, mm, median (range)","Tube voltage, kVp, median (range)",Contrast agent recorded
+Discovery,144,GE 118; SIEMENS 14; Other 9; PHILIPS 2; TOSHIBA 1,1.25 (0.62–3.00),0.78 (0.59–0.98),120.00 (100.00–120.00),82 (57%)
+External validation (Lung1),422,SIEMENS 324; Other 98,3.00 (3.00–3.00),0.98 (0.72–0.98),120.00 (120.00–140.00),0 (0%)
+Multi-reader nodules (LIDC-IDRI),687,GE 420; SIEMENS 149; PHILIPS 65; TOSHIBA 53,2.00 (0.60–5.00),0.70 (0.46–0.98),120.00 (120.00–140.00),238 (35%)
+Liver metastases,197,GE 195; PHILIPS 1; SIEMENS 1,5.00 (1.25–7.50),0.78 (0.61–0.98),120.00 (120.00–140.00),195 (99%)

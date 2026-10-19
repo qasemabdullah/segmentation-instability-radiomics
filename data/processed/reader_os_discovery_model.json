@@ -1,0 +1,7 @@
+{
+  "model": "ridge Cox, all 144 discovery-cohort expert segmentations (OS)",
+  "patients": 21,
+  "pairwise_disagreement": 0.11428571428571428,
+  "patients_with_any_disagreement": 0.23809523809523808,
+  "mean_reader_rank_rho": 0.92012987012987
+}

@@ -1,0 +1,8 @@
+model,hr,lo,hi,p,n_boot,aalen_johansen,one_minus_km
+"cause-specific Cox, recurrence",1.3514575904544688,0.90942036138348,2.0083535583242074,0.13617565433614612,,,
+"cause-specific Cox, death without recurrence",1.1985690520803443,0.7573911842571742,1.8967315734123789,0.43927075651910863,,,
+"Fine-Gray, recurrence",1.2963315778995117,0.9835488966161194,1.8099414303329564,0.078,1000.0,,
+"cumulative incidence of recurrence, high risk, 3 y",,,,,,0.2512491021680518,0.2736617818950793
+"cumulative incidence of recurrence, high risk, 5 y",,,,,,0.2872862583250966,0.3206233046173803
+"cumulative incidence of recurrence, low risk, 3 y",,,,,,0.27179555027766444,0.286235715541591
+"cumulative incidence of recurrence, low risk, 5 y",,,,,,0.2881782009515372,0.3060625012209913

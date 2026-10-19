@@ -1,0 +1,49 @@
+{
+ "n_nodules": 588,
+ "n_malignant": 278,
+ "n_patients": 401,
+ "n_seeds": 10,
+ "threshold_0.5": {
+  "pairwise_disagreement": 0.02031730500419346,
+  "nodules_any_disagreement": 0.033163265306122444,
+  "nodules_correctness_depends_on_reader": 0.033163265306122444,
+  "mean_rank_rho": 0.9935559382891916,
+  "auc_by_reader_min": 0.862436760269204,
+  "auc_by_reader_max": 0.88056614044638,
+  "auc_by_reader_mean": 0.8675095439303465,
+  "accuracy_loo_label": 0.8124937027707808,
+  "refit_noise": 0.06198006367099839,
+  "nodules_stable_all_contours": 0.9668367346938774,
+  "nodules_sensitivity_ge_25pct": 0.033163265306122444,
+  "error_rate_stable": 0.1843362142327437,
+  "error_rate_unstable": 0.4651673941887967,
+  "auc_single_reader_contour": 0.8635820375957298,
+  "auc_contour_averaged": 0.8641390113715479
+ },
+ "threshold_train_median": {
+  "pairwise_disagreement": 0.018950548255832013,
+  "nodules_any_disagreement": 0.030782312925170065,
+  "nodules_correctness_depends_on_reader": 0.030782312925170065,
+  "mean_rank_rho": 0.9935559382891916,
+  "auc_by_reader_min": 0.862436760269204,
+  "auc_by_reader_max": 0.88056614044638,
+  "auc_by_reader_mean": 0.8675095439303465,
+  "accuracy_loo_label": NaN,
+  "refit_noise": 0.08584103126141641,
+  "nodules_stable_all_contours": 0.9692176870748298,
+  "nodules_sensitivity_ge_25pct": 0.030782312925170065,
+  "error_rate_stable": 0.21390130541152902,
+  "error_rate_unstable": 0.47913823019086177,
+  "auc_single_reader_contour": 0.8635820375957298,
+  "auc_contour_averaged": 0.8641390113715479
+ },
+ "reader_agreement": {
+  "median_dice": 0.7799227799227799,
+  "median_assd_mm": 0.3296479284763336,
+  "iqr_assd_mm": [
+   0.22295852750539774,
+   0.5011867582798004
+  ]
+ },
+ "features": "fm"
+}

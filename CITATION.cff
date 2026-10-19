@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Tumor segmentation induces individual-level instability in radiomic risk classification: analysis code"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-01"
+# Add the Zenodo DOI, the journal and the remaining ORCIDs when the paper is published.
+authors:
+  - family-names: "Al-Tashi"
+    given-names: "Qasem"
+    orcid: "https://orcid.org/0000-0001-7208-693X"
+  - family-names: "Abbass"
+    given-names: "Ibrahim M."
+  - family-names: "Al-Shargie"
+    given-names: "Fares"
+  - family-names: "Al-Garadi"
+    given-names: "Mohammed Ali"
+    orcid: "https://orcid.org/0000-0002-6991-2687"
+  - family-names: "Ahmed"
+    given-names: "Abdulaziz"
+  - family-names: "Mirjalili"
+    given-names: "Seyedali"
+repository-code: "https://github.com/qasemabdullah/segmentation-instability-radiomics"
+preferred-citation:
+  type: article
+  title: "Tumor segmentation induces individual-level instability in radiomic risk classification"
+  authors:
+    - family-names: "Al-Tashi"
+      given-names: "Qasem"
+    - family-names: "Abbass"
+      given-names: "Ibrahim M."
+    - family-names: "Al-Shargie"
+      given-names: "Fares"
+    - family-names: "Al-Garadi"
+      given-names: "Mohammed Ali"
+    - family-names: "Ahmed"
+      given-names: "Abdulaziz"
+    - family-names: "Mirjalili"
+      given-names: "Seyedali"
+  year: 2026

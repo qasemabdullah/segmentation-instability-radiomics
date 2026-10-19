@@ -1,0 +1,91 @@
+setting,endpoint,comparison,percentile,reclassified
+Discovery (131 patients),egfr,±1-mm adjustment,25,0.1923076923076923
+Discovery (131 patients),egfr,AI segmentation,25,0.25
+Discovery (144 patients),egfr,Model-development variability,25,0.23580746738641478
+Discovery (131 patients),egfr,±1-mm adjustment,33,0.20192307692307693
+Discovery (131 patients),egfr,AI segmentation,33,0.25961538461538464
+Discovery (144 patients),egfr,Model-development variability,33,0.24975258659469182
+Discovery (131 patients),egfr,±1-mm adjustment,50,0.23076923076923078
+Discovery (131 patients),egfr,AI segmentation,50,0.28846153846153844
+Discovery (144 patients),egfr,Model-development variability,50,0.234727845254161
+Discovery (131 patients),egfr,±1-mm adjustment,67,0.13942307692307693
+Discovery (131 patients),egfr,AI segmentation,67,0.22115384615384615
+Discovery (144 patients),egfr,Model-development variability,67,0.19190283400809713
+Discovery (131 patients),egfr,±1-mm adjustment,75,0.14903846153846154
+Discovery (131 patients),egfr,AI segmentation,75,0.21153846153846154
+Discovery (144 patients),egfr,Model-development variability,75,0.18470535312640574
+Discovery (131 patients),os,±1-mm adjustment,25,0.2366412213740458
+Discovery (131 patients),os,AI segmentation,25,0.5648854961832062
+Discovery (144 patients),os,Model-development variability,25,0.09605263157894736
+Discovery (131 patients),os,±1-mm adjustment,33,0.2366412213740458
+Discovery (131 patients),os,AI segmentation,33,0.5877862595419847
+Discovery (144 patients),os,Model-development variability,33,0.09736842105263158
+Discovery (131 patients),os,±1-mm adjustment,50,0.2366412213740458
+Discovery (131 patients),os,AI segmentation,50,0.48854961832061067
+Discovery (144 patients),os,Model-development variability,50,0.1006578947368421
+Discovery (131 patients),os,±1-mm adjustment,67,0.21755725190839695
+Discovery (131 patients),os,AI segmentation,67,0.32061068702290074
+Discovery (144 patients),os,Model-development variability,67,0.09144736842105264
+Discovery (131 patients),os,±1-mm adjustment,75,0.15267175572519084
+Discovery (131 patients),os,AI segmentation,75,0.2595419847328244
+Discovery (144 patients),os,Model-development variability,75,0.08801169590643275
+Discovery (131 patients),recurrence,±1-mm adjustment,25,0.2480916030534351
+Discovery (131 patients),recurrence,AI segmentation,25,0.21374045801526717
+Discovery (144 patients),recurrence,Model-development variability,25,0.20826023391812865
+Discovery (131 patients),recurrence,±1-mm adjustment,33,0.3129770992366412
+Discovery (131 patients),recurrence,AI segmentation,33,0.2824427480916031
+Discovery (144 patients),recurrence,Model-development variability,33,0.22331871345029242
+Discovery (131 patients),recurrence,±1-mm adjustment,50,0.3129770992366412
+Discovery (131 patients),recurrence,AI segmentation,50,0.3816793893129771
+Discovery (144 patients),recurrence,Model-development variability,50,0.19985380116959067
+Discovery (131 patients),recurrence,±1-mm adjustment,67,0.3053435114503817
+Discovery (131 patients),recurrence,AI segmentation,67,0.4122137404580153
+Discovery (144 patients),recurrence,Model-development variability,67,0.17244152046783628
+Discovery (131 patients),recurrence,±1-mm adjustment,75,0.2480916030534351
+Discovery (131 patients),recurrence,AI segmentation,75,0.3893129770992366
+Discovery (144 patients),recurrence,Model-development variability,75,0.158187134502924
+Multi-reader NSCLC (21 patients),egfr,Another radiation oncologist,25,0.2571428571428572
+Multi-reader NSCLC (21 patients),egfr,Another radiation oncologist,33,0.2761904761904762
+Multi-reader NSCLC (21 patients),egfr,Another radiation oncologist,50,0.3333333333333333
+Multi-reader NSCLC (21 patients),egfr,Another radiation oncologist,67,0.34285714285714286
+Multi-reader NSCLC (21 patients),egfr,Another radiation oncologist,75,0.30476190476190473
+Multi-reader NSCLC (21 patients),os,Another radiation oncologist,25,0.21904761904761902
+Multi-reader NSCLC (21 patients),os,Another radiation oncologist,33,0.21904761904761902
+Multi-reader NSCLC (21 patients),os,Another radiation oncologist,50,0.21904761904761902
+Multi-reader NSCLC (21 patients),os,Another radiation oncologist,67,0.19047619047619047
+Multi-reader NSCLC (21 patients),os,Another radiation oncologist,75,0.1714285714285714
+Multi-reader NSCLC (21 patients),recurrence,Another radiation oncologist,25,0.22857142857142856
+Multi-reader NSCLC (21 patients),recurrence,Another radiation oncologist,33,0.24761904761904763
+Multi-reader NSCLC (21 patients),recurrence,Another radiation oncologist,50,0.2761904761904762
+Multi-reader NSCLC (21 patients),recurrence,Another radiation oncologist,67,0.2571428571428572
+Multi-reader NSCLC (21 patients),recurrence,Another radiation oncologist,75,0.22857142857142856
+Multi-reader nodules (589 nodules),malignancy,Another radiologist,25,0.053319357092942
+Multi-reader nodules (589 nodules),malignancy,Model-development variability,25,0.06804252657911194
+Multi-reader nodules (589 nodules),malignancy,Another radiologist,33,0.05705800139762405
+Multi-reader nodules (589 nodules),malignancy,Model-development variability,33,0.05490931832395248
+Multi-reader nodules (589 nodules),malignancy,Another radiologist,50,0.04007686932215234
+Multi-reader nodules (589 nodules),malignancy,Model-development variability,50,0.02791327913279133
+Multi-reader nodules (589 nodules),malignancy,Another radiologist,67,0.04703004891684137
+Multi-reader nodules (589 nodules),malignancy,Model-development variability,67,0.04960391911611423
+Multi-reader nodules (589 nodules),malignancy,Another radiologist,75,0.053074772886093635
+Multi-reader nodules (589 nodules),malignancy,Model-development variability,75,0.06560350218886804
+Liver metastases (185 patients),dfs,AI segmentation,25,0.15324324324324326
+Liver metastases (197 patients),dfs,Model-development variability,25,0.17333689553833825
+Liver metastases (185 patients),dfs,AI segmentation,33,0.1627027027027027
+Liver metastases (197 patients),dfs,Model-development variability,33,0.1940154955917713
+Liver metastases (185 patients),dfs,AI segmentation,50,0.16216216216216217
+Liver metastases (197 patients),dfs,Model-development variability,50,0.20748063051028584
+Liver metastases (185 patients),dfs,AI segmentation,67,0.14351351351351355
+Liver metastases (197 patients),dfs,Model-development variability,67,0.19631311781993055
+Liver metastases (185 patients),dfs,AI segmentation,75,0.1262162162162162
+Liver metastases (197 patients),dfs,Model-development variability,75,0.18295484905156295
+Liver metastases (185 patients),os,AI segmentation,25,0.17810810810810812
+Liver metastases (197 patients),os,Model-development variability,25,0.12749131712530057
+Liver metastases (185 patients),os,AI segmentation,33,0.18432432432432436
+Liver metastases (197 patients),os,Model-development variability,33,0.14646005877638257
+Liver metastases (185 patients),os,AI segmentation,50,0.18972972972972973
+Liver metastases (197 patients),os,Model-development variability,50,0.17857333689553836
+Liver metastases (185 patients),os,AI segmentation,67,0.15783783783783784
+Liver metastases (197 patients),os,Model-development variability,67,0.19417579481699168
+Liver metastases (185 patients),os,AI segmentation,75,0.13513513513513514
+Liver metastases (197 patients),os,Model-development variability,75,0.18022976222281595

@@ -1,0 +1,4 @@
+endpoint,step,n_features,mean_concordance,std_concordance
+rfs,Clinical alone,6,0.5420461427209109,0.11386877217954598
+rfs,+ tumor volume,7,0.532789444613877,0.1267774182405733
+rfs,+ radiomics (26 features),33,0.561278659650102,0.06609632804735344

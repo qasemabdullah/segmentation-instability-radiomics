@@ -1,0 +1,12 @@
+test,p,q,significant_q_below_0.05
+"Spearman, instability rank between readers vs under ±1-mm adjustment (Fig. 4c)",1.590889106504567e-09,1.749978017155024e-08,True
+"Log-rank, OS by median risk (Fig. 2b)",0.01216621946697212,0.05489506467518654,False
+"Mann-Whitney, mean attenuation by recurrence",0.014971381275050875,0.05489506467518654,False
+"Bootstrap, stable-minus-unstable range, EGFR",0.107,0.29425,False
+"χ², phenotype vs recurrence",0.19719725682840092,0.433833965022482,False
+"Spearman, SHAP importance vs stability, EGFR",0.2977596854417797,0.4908770511714284,False
+"Mann-Whitney, tumor volume by recurrence",0.312376305290909,0.4908770511714284,False
+"Spearman, SHAP importance vs stability, KRAS",0.5502971635239912,0.7394444444444443,False
+"Bootstrap, stable-minus-unstable range, OS",0.605,0.7394444444444443,False
+"Spearman, SHAP importance vs stability, recurrence",0.6865981544916888,0.7552579699408577,False
+"Bootstrap, stable-minus-unstable range, recurrence",0.843,0.843,False

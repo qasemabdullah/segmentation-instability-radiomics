@@ -1,0 +1,22 @@
+{
+  "outlines": 18140,
+  "flag_rate": 0.18252480705622934,
+  "error_if_flagged": 0.20869827846572034,
+  "error_if_not_flagged": 0.0478791557084092,
+  "share_of_errors_flagged": 0.49321912919343325,
+  "or_error": 5.244006917256767,
+  "disagree_if_flagged": 0.14048103386382674,
+  "disagree_if_not_flagged": 0.012161214042564249,
+  "share_of_disagreements_flagged": 0.7149817295980512,
+  "or_disagree": 13.266856655003362,
+  "or_error_ci95": [
+    3.184266738189007,
+    8.843207145827014
+  ],
+  "or_disagree_ci95": [
+    9.50014378094335,
+    18.940719741932377
+  ],
+  "n_patients": 385,
+  "bootstrap": "1000 patient-level resamples"
+}

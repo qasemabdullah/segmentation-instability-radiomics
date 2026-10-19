@@ -1,0 +1,7 @@
+paradigm,target,condition,swing
+classification,egfr,stable,0.10304093567251471
+classification,egfr,unstable,0.27187134502923993
+classification,recurrence,stable,0.12357142857142855
+classification,recurrence,unstable,0.11065476190476187
+survival,recurrence_survival,stable,0.0469074349074351
+survival,recurrence_survival,unstable,0.03918953568953565

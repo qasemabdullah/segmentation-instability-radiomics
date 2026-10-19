@@ -1,0 +1,23 @@
+[
+  {
+    "lung1_id": "LUNG1-016",
+    "whole_profile_r": 1.0,
+    "whole_volume_r": 1.0,
+    "cropped_profile_r": 1.0,
+    "cropped_volume_r": 0.9999999999999999
+  },
+  {
+    "lung1_id": "LUNG1-094",
+    "whole_profile_r": 1.0,
+    "whole_volume_r": 1.0,
+    "cropped_profile_r": 1.0,
+    "cropped_volume_r": 0.9999999999999999
+  },
+  {
+    "lung1_id": "LUNG1-281",
+    "whole_profile_r": 0.9999999999999999,
+    "whole_volume_r": 1.0,
+    "cropped_profile_r": 1.0,
+    "cropped_volume_r": 1.0
+  }
+]

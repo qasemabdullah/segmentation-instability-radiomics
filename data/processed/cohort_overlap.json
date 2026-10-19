@@ -1,0 +1,8 @@
+{
+  "multi_reader_patients": 21,
+  "shared_with_lung1": 0,
+  "lung1_patients_analyzed": 419,
+  "unique_nsclc_radiotherapy_patients": 440,
+  "shared_lung1_ids": [],
+  "max_voxel_correlation": 0.6743
+}

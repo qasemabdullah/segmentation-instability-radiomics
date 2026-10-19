@@ -1,0 +1,26 @@
+{
+ "radiomics": {
+  "n_contours_labelled": 1988,
+  "auc_loo": 0.9805414355778769,
+  "pairwise_free_nodules_unstable": 0.06536502546689303,
+  "error_stable": 0.05002019514516119,
+  "error_unstable": 0.42737853465978465,
+  "path_n": 49.0,
+  "path_auc": 0.7259327421783504,
+  "path_n_unstable": 1.5,
+  "path_error_stable": 0.23989027387088044,
+  "path_error_unstable": 0.35185185185185186
+ },
+ "fm": {
+  "n_contours_labelled": 1985,
+  "auc_loo": 0.8770274701995389,
+  "pairwise_free_nodules_unstable": 0.03282312925170068,
+  "error_stable": 0.18338292190383365,
+  "error_unstable": 0.46831555107769934,
+  "path_n": 49.0,
+  "path_auc": 0.6678099380960348,
+  "path_n_unstable": 1.8,
+  "path_error_stable": 0.2902157393947403,
+  "path_error_unstable": 0.3333333333333333
+ }
+}

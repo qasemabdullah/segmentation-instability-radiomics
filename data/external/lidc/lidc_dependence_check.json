@@ -1,0 +1,61 @@
+{
+ "n_nodule_predictions": 5890,
+ "n_patients": 401,
+ "n_ties": 74,
+ "share_dependent": 0.06910016977928693,
+ "bootstrap": "1000 patient resamples",
+ "point": {
+  "err_tie_malignant_dependent": 0.3538083538083538,
+  "err_tie_malignant_independent": 0.05015502462155754,
+  "err_tie_benign_dependent": 0.43734643734643736,
+  "err_tie_benign_independent": 0.05015502462155754,
+  "err_tie_excluded_dependent": 0.37237237237237236,
+  "err_tie_excluded_independent": 0.05015502462155754,
+  "or_dependent_adj_conf": 1.2653991405547216,
+  "reader_pair_disagreement": 0.037910552061495455,
+  "model_development": 0.026349801959558057,
+  "difference": 0.011560750101937398
+ },
+ "ci95": {
+  "err_tie_malignant_dependent": [
+   0.26484579690559584,
+   0.45126002363467543
+  ],
+  "err_tie_malignant_independent": [
+   0.0330772890234248,
+   0.07012888307962689
+  ],
+  "err_tie_benign_dependent": [
+   0.32806470022558354,
+   0.5497853997853999
+  ],
+  "err_tie_benign_independent": [
+   0.0330772890234248,
+   0.07012888307962689
+  ],
+  "err_tie_excluded_dependent": [
+   0.2606615379140173,
+   0.48892156862745095
+  ],
+  "err_tie_excluded_independent": [
+   0.0330772890234248,
+   0.07012888307962689
+  ],
+  "or_dependent_adj_conf": [
+   0.758287072519785,
+   2.1954636446367424
+  ],
+  "reader_pair_disagreement": [
+   0.02897919773164997,
+   0.048040505675954595
+  ],
+  "model_development": [
+   0.020505195443889006,
+   0.03326654023571089
+  ],
+  "difference": [
+   0.004942840716542021,
+   0.019614040397851466
+  ]
+ }
+}

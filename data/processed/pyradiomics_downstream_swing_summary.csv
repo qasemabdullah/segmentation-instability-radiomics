@@ -1,0 +1,7 @@
+paradigm,target,extractor,swing
+classification,egfr,custom,0.24005847953216364
+classification,egfr,pyradiomics,0.19204678362573102
+classification,recurrence,custom,0.11613095238095228
+classification,recurrence,pyradiomics,0.1373214285714286
+survival,recurrence_survival,custom,0.10292968517968537
+survival,recurrence_survival,pyradiomics,0.06674757449757462

@@ -1,0 +1,24 @@
+{
+  "machine": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel; 22 logical CPUs",
+  "total_analysis_hours": 2.6669166666666673,
+  "by_stage_minutes": {
+    "ai": 17.0,
+    "discovery": 118.7,
+    "external": 20.2,
+    "figures": 3.8,
+    "readers": 0.2
+  },
+  "longest_steps_minutes": {
+    "signal_experiment": 54.3,
+    "baseline_models": 21.4,
+    "lidc_models": 17.9,
+    "range_inference": 17.2,
+    "stability_filtering": 14.6
+  },
+  "lung1_feature_seconds_per_patient_median": 4.268230438232422,
+  "segmentations_per_patient": 5,
+  "threads": 2,
+  "patients_timed": 5,
+  "fm_seconds_per_patch_cpu": 0.42846083641052246,
+  "fm_torch_threads": 16
+}

@@ -1,0 +1,5 @@
+target,feature_set,extractor,mean_auc,std_auc,n
+recurrence,embeddings,radimagenet,0.5516666666666665,0.09618752942209573,144
+recurrence,radiomics+embeddings,radimagenet,0.5801785714285715,0.09371996873496355,144
+egfr,embeddings,radimagenet,0.5567251461988304,0.1354560685232585,117
+egfr,radiomics+embeddings,radimagenet,0.5357894736842106,0.12824837398330977,117

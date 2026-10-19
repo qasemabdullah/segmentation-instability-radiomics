@@ -1,0 +1,29 @@
+{
+  "censoring": {
+    "deaths_without_recurrence": 26,
+    "censored_at_death_date": 19,
+    "censored_before_death": 7,
+    "gap_days_median_if_before": 276.0,
+    "gap_days_max": 476.0
+  },
+  "dfs": {
+    "n": 144,
+    "events": 66,
+    "concordance_mean": 0.5806202505483877,
+    "concordance_sd": 0.053770870584503375,
+    "logrank_p_median_split": 0.0732735930709343,
+    "events_high": 37,
+    "events_low": 29,
+    "hr_per_sd": [
+      1.2030273173291166,
+      0.9687008881052438,
+      1.4940367496420142,
+      0.09447062873501769
+    ]
+  },
+  "competing_risks": {
+    "n": 144,
+    "recurrences": 40,
+    "deaths_without_recurrence": 26
+  }
+}
